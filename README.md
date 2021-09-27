@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on VinBrain company
 
-🌱 I’m currently learning advance NLP, CV
+🌱 I’m currently learning advanced NLP, CV
 
 👯 I’m looking to collaborate with other developer
 
