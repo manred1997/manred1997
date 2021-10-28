@@ -2,7 +2,7 @@
 
 ### I'm fresh graduate!
 
-🔭 I’m currently working on VinBrain company
+🔭 I’m currently working on VinBrain LLC
 
 🌱 I’m currently learning advanced NLP, CV
 
