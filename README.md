@@ -8,12 +8,12 @@
 
 ----------------------------------------------------
 
-### Contact:
+<!-- ### Contact:
 
 [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://icons8.com/icon/13963/twitter" />][twitter]
 
 
-[twitter]: https://twitter.com/manred1997
+[twitter]: https://twitter.com/manred1997 -->
 <!--
 **manred1997/manred1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
