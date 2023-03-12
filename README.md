@@ -33,7 +33,7 @@
 
 -----
 
-## Personal Project
+## <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/handbrake.png" width="35"><b> Personal Project </b>
 
 
 <div align="center">
@@ -109,7 +109,7 @@
 </p>
 -----
 
-## <b> Contact me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Contact me</b>
 <br>
 <div align='left'>
 <ul>
