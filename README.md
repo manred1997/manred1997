@@ -128,7 +128,7 @@
 
 </a>
 <a href="https://www.facebook.com/manred1997" target="_blank">
-<img src="https://img.shields.io/badge/facebook:%20manred1997-%23EA4335.svg?style=for-the-badge&logo=facebook&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook:%20manred1997-%23EA4335.svg?color=4267B2&style=for-the-badge&logo=facebook&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </ul>
 </div>
