@@ -125,5 +125,10 @@
 <a href="mailto:tranhoangvu1997.thv@gamil.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:%20manred1997-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+
+</a>
+<a href="https://www.facebook.com/manred1997" target="_blank">
+<img src="https://img.shields.io/badge/facebook:%20manred1997-%23EA4335.svg?style=for-the-badge&logo=facebook&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 </ul>
 </div>
